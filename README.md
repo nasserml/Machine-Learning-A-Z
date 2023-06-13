@@ -31,8 +31,8 @@ This GitHub repository contains code and datasets for the "Machine Learning A-Z"
 - [polynomial_regression.ipynb](Part2-Regression/Section3-PolynomialRegression/polynomial_regression.ipynb)
 
 ### Section 4 - Support Vector Regression (SVR)
-- [Position_Salaries.csv](Part2-Regression/Section4-SupportVectorRegression((SVR)/Position_Salaries.csv)
-- [support_vector_regression.ipynb](Part2-Regression/Section4-SupportVectorRegression((SVR)/support_vector_regression.ipynb)
+- [Position_Salaries.csv](Part2-Regression/Section4-SupportVectorRegression%28%28SVR%29/Position_Salaries.csv)
+- [support_vector_regression.ipynb](Part2-Regression/Section4-SupportVectorRegression%28%28SVR%29/support_vector_regression.ipynb)
 
 ### Section 5 - Decision Tree Regression
 - [Position_Salaries.csv](Part2-Regression/Section5-DecisionTreeRegression/Position_Salaries.csv)
