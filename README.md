@@ -129,12 +129,12 @@ This GitHub repository contains code and datasets for the "Machine Learning A-Z"
 ## Part 8 - Deep Learning
 ### Section 1 - Artificial Neural Networks (ANN)
 #### Classification
-- [Churn_Modelling.csv](Part8-DeepLearning/Section1-ArtificialNeuralNetworks((ANN)/Classification/Churn_Modelling.csv)
-- [artificial_neural_network.ipynb](Part8-DeepLearning/Section1-ArtificialNeuralNetworks((ANN)/Classification/artificial_neural_network.ipynb)
+- [Churn_Modelling.csv](Part8-DeepLearning/Section1-ArtificialNeuralNetworks%28%28ANN%29/Classification/Churn_Modelling.csv)
+- [artificial_neural_network.ipynb](Part8-DeepLearning/Section1-ArtificialNeuralNetworks%28%28ANN%29/Classification/artificial_neural_network.ipynb)
 
 #### Regression
-- [Artificial_Neural_Network.ipynb](Part8-DeepLearning/Section1-ArtificialNeuralNetworks((ANN)/Regression/Artificial_Neural_Network.ipynb)
-- [Folds5x2_pp.xlsx](Part8-DeepLearning/Section1-ArtificialNeuralNetworks((ANN)/Regression/Folds5x2_pp.xlsx)
+- [Artificial_Neural_Network.ipynb](Part8-DeepLearning/Section1-ArtificialNeuralNetworks%28%28ANN%29/Regression/Artificial_Neural_Network.ipynb)
+- [Folds5x2_pp.xlsx](Part8-DeepLearning/Section1-ArtificialNeuralNetworks%28%28ANN%29/Regression/Folds5x2_pp.xlsx)
 
 ### Section 2 - Convolutional Neural Networks (CNN)
 - [convolutional_neural_network.ipynb](Part8-DeepLearning/Section2-ConvolutionalNeuralNetworks(CNN)/convolutional_neural_network.ipynb)
